@@ -20,6 +20,7 @@ In this course project, I focused on preparing and understanding the TikTok data
 - Communicating progress and findings through an executive summary
 
 This work represents the technical foundation needed before moving on to statistical analysis and machine learning in later courses.
+The notebook is present in this folder, in the same format as it was available in. 
 
 ## How this fits into the larger certificate project
 This course represents the first technical step in the Google Advanced Data Analytics Certificate capstone. The Python skills and data preparation work completed here directly support later stages of the TikTok claims classification project, including exploratory data analysis, statistical testing, and machine learning model development.

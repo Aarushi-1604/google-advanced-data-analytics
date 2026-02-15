@@ -72,5 +72,14 @@ In upcoming courses, this project will expand to include:
 - Regression analysis  
 - Machine learning models for claims classification  
 - Advanced decision-making and insight communication  
-SUPER QUICK MARKDOWN CHEAT SHEET (so you’re not lost)
-# → big heading
+
+---
+
+## Interactive Tableau Dashboard
+
+You can explore the interactive dashboard here:
+
+🔗 **Live Dashboard:**  
+https://public.tableau.com/views/TikTokEngagementDashboard/TikTokEngagementDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+This dashboard was created to help non-technical stakeholders explore patterns in claims vs. opinions, engagement trends, and moderation signals.
